@@ -1,0 +1,53 @@
+[
+  {
+    "id": "b1",
+    "name": "sunny",
+    "phone": "+917893770579",
+    "date": "2026-06-20",
+    "time": "11:00",
+    "service": "Hair Patch Fitting + Professional Fitting",
+    "status": "Completed",
+    "timestamp": "2026-06-18T10:00:00.000Z",
+    "stylist": "Amit - Hair Styling & Spa"
+  },
+  {
+    "id": "b2",
+    "name": "Ahmed R.",
+    "phone": "+971520000000",
+    "date": "2026-06-22",
+    "time": "15:30",
+    "service": "Monthly Maintenance",
+    "status": "Pending",
+    "timestamp": "2026-06-18T11:15:00.000Z"
+  },
+  {
+    "id": "b3",
+    "name": "Khalid M.",
+    "phone": "+971521111111",
+    "date": "2026-06-17",
+    "time": "14:00",
+    "service": "Hair Patch Fitting",
+    "status": "Completed",
+    "timestamp": "2026-06-15T09:00:00.000Z"
+  },
+  {
+    "id": "b_mqp2pteaksu",
+    "name": "shaheed",
+    "phone": "756944135",
+    "date": "2026-02-06",
+    "time": "16:00",
+    "service": "Monthly Maintenance",
+    "status": "Confirmed",
+    "timestamp": "2026-06-22T10:29:28.978Z"
+  },
+  {
+    "id": "b_mqp848nyy7y",
+    "name": "Local Fallback Test",
+    "phone": "+971501111111",
+    "date": "2026-06-09",
+    "time": "18:30",
+    "service": "Premium Hair Patch",
+    "status": "Confirmed",
+    "timestamp": "2026-06-22T13:00:40.030Z"
+  }
+]
