@@ -1,0 +1,49 @@
+[
+  {
+    "stylist": "Sara - Master Stylist",
+    "salonShare": 70,
+    "services": [
+      {
+        "name": "hair cut",
+        "price": 40,
+        "duration": "30 mins"
+      },
+      {
+        "name": "hair massage",
+        "price": 20,
+        "duration": "30 mins"
+      },
+      {
+        "name": "Monthly Maintenance",
+        "price": 200,
+        "duration": "30 mins"
+      }
+    ]
+  },
+  {
+    "stylist": "Amit - Hair Styling & Spa",
+    "salonShare": 70,
+    "services": []
+  },
+  {
+    "stylist": "John - Senior Barber",
+    "salonShare": 70,
+    "services": [
+      {
+        "name": "hair cut",
+        "price": 50,
+        "duration": "30 mins"
+      }
+    ]
+  },
+  {
+    "stylist": "Marcus Vance",
+    "salonShare": 70,
+    "services": []
+  },
+  {
+    "stylist": "Sarah Jenkins",
+    "salonShare": 70,
+    "services": []
+  }
+]
