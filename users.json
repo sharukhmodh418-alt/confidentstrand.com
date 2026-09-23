@@ -1,0 +1,37 @@
+[
+  {
+    "uid": "5xlD4NpH7gUgTslwmpkLZ0RGLMg1",
+    "email": "sara@demo.com",
+    "role": "partner",
+    "partnerName": "Sara - Master Stylist",
+    "timestamp": "2026-07-30T04:14:11.791Z"
+  },
+  {
+    "uid": "1H9SC3M6DGXJHhsm08n98GcKDY02",
+    "email": "admin@salon.com",
+    "role": "partner",
+    "partnerName": "John - Senior Barber",
+    "timestamp": "2026-07-30T05:15:28.920Z"
+  },
+  {
+    "uid": "9dlHPanD2JTG7pYH6LSoA7zu0tt2",
+    "email": "admin@demo.com",
+    "role": "partner",
+    "partnerName": "John - Senior Barber",
+    "timestamp": "2026-07-30T05:49:47.336Z"
+  },
+  {
+    "uid": "9qhmy8H4nHSYQgM05y1FNcP70LU2",
+    "email": "sarademo@gmail.com",
+    "role": "partner",
+    "partnerName": "Sara - Master Stylist",
+    "timestamp": "2026-07-30T05:52:39.200Z"
+  },
+  {
+    "uid": "NvsuuL6IkQTTK30Ys21uUJdLH472",
+    "email": "admin@demo1.com",
+    "role": "admin",
+    "partnerName": "",
+    "timestamp": "2026-07-30T05:59:26.174Z"
+  }
+]

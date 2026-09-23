@@ -271,5 +271,35 @@
     "duration": "45 mins",
     "price": 249,
     "timestamp": "2026-09-07T16:39:05.777Z"
+  },
+  {
+    "id": "b_mu56l54zpee",
+    "bookingType": "Maintenance",
+    "name": "Tariq Demo Test",
+    "phone": "+971501234567",
+    "date": "2026-09-18",
+    "time": "10:00 AM",
+    "service": "Monthly Maintenance",
+    "stylist": "Sara - Master Stylist",
+    "notes": "Demo maintenance test for hair patch re-bonding",
+    "status": "Pending",
+    "duration": "45 mins",
+    "price": 199,
+    "timestamp": "2026-09-17T07:01:15.203Z"
+  },
+  {
+    "id": "b_mu56w6bq259",
+    "bookingType": "Maintenance",
+    "name": "demo",
+    "phone": "78955612330",
+    "date": "2026-12-09",
+    "time": "11:30 AM",
+    "service": "Monthly Maintenance",
+    "stylist": "Amit - Hair Styling & Spa",
+    "notes": "",
+    "status": "Pending",
+    "duration": "45 mins",
+    "price": 199,
+    "timestamp": "2026-09-17T07:09:49.958Z"
   }
 ]
